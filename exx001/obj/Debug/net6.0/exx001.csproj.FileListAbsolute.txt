@@ -1,0 +1,15 @@
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\bin\Debug\net6.0\exx001.exe
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\bin\Debug\net6.0\exx001.deps.json
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\bin\Debug\net6.0\exx001.runtimeconfig.json
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\bin\Debug\net6.0\exx001.dll
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\bin\Debug\net6.0\exx001.pdb
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\exx001.csproj.AssemblyReference.cache
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\exx001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\exx001.AssemblyInfoInputs.cache
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\exx001.AssemblyInfo.cs
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\exx001.csproj.CoreCompileInputs.cache
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\exx001.dll
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\refint\exx001.dll
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\exx001.pdb
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\exx001.genruntimeconfig.cache
+C:\Users\netot\Desktop\final_work\.vscode\repo\exx001\obj\Debug\net6.0\ref\exx001.dll
