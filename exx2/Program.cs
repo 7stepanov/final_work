@@ -1,1 +1,0 @@
-c:\Users\netot\Desktop\Документ Microsoft Visio.png
