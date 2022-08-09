@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+c:\Users\netot\Desktop\Документ Microsoft Visio.png
